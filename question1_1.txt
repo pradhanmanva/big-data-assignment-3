@@ -1,0 +1,90 @@
+Cluster 1
+346 Backbeat (1993) Drama, Musical
+340 War, The (1994) Adventure, Drama
+342 Muriel's Wedding (1994) Comedy, Romance
+348 Bullets Over Broadway (1994) Comedy
+298 Pushing Hands (1992) Comedy
+
+
+
+Cluster 2
+3770 Dreamscape (1984) Adventure, Crime, Sci-Fi, Thriller
+3776 Melody Time (1948) Animation, Children's, Musical
+3774 House Party 2 (1991) Comedy
+3778 On Our Merry Way (1948) Comedy, Drama
+3834 Bronco Billy (1980) Adventure, Drama, Romance
+
+
+
+Cluster 3
+2316 Practical Magic (1998) Drama, Romance
+2314 Beloved (1998) Drama
+2312 Children of a Lesser God (1986) Drama
+2310 Mighty, The (1998) Drama
+2268 Few Good Men, A (1992) Crime, Drama
+
+
+
+Cluster 4
+2440 Another Day in Paradise (1998) Drama
+2446 In Dreams (1999) Thriller
+2444 24 7: Twenty Four Seven (1997) Comedy, Drama
+2448 Virus (1999) Horror, Sci-Fi
+2454 Fly, The (1958) Horror, Sci-Fi
+
+
+
+Cluster 5
+3518 End of Violence, The (1997) Drama, Thriller
+3512 Return to Me (2000) Drama, Romance
+3510 Frequency (2000) Drama, Thriller
+3516 Bell, Book and Candle (1958) Comedy, Romance
+3514 Joe Gould's Secret (2000) Drama
+
+
+
+Cluster 6
+1434 Stranger, The (1994) Action
+1624 Thousand Acres, A (1997) Drama
+1572 Contempt (Le M�pris) (1963) Drama
+1574 Fall (1997) Romance
+1370 Die Hard 2 (1990) Action, Thriller
+
+
+
+Cluster 7
+2688 General's Daughter, The (1999) Drama, Thriller
+2686 Red Violin, The (Le Violon rouge) (1998) Drama, Mystery
+2682 Limbo (1999) Drama
+3010 Rosetta (1999) Drama
+2860 Blue Streak (1999) Comedy
+
+
+
+Cluster 8
+1130 Howling, The (1980) Horror
+1004 Glimmer Man, The (1996) Action, Thriller
+1198 Raiders of the Lost Ark (1981) Action, Adventure
+1190 Tie Me Up! Tie Me Down! (1990) Drama
+1192 Paris Is Burning (1990) Documentary
+
+
+
+Cluster 9
+1868 Truce, The (1996) Drama, War
+1780 Ayn Rand: A Sense of Life (1997) Documentary
+2046 Flight of the Navigator (1986) Adventure, Children's, Sci-Fi
+2044 Devil and Max Devlin, The (1981) Comedy
+2042 D2: The Mighty Ducks (1994) Children's, Comedy
+
+
+
+Cluster 10
+558 Pagemaster, The (1994) Action, Adventure, Animation, Children's, Fantasy
+556 War Room, The (1993) Documentary
+550 Threesome (1994) Comedy, Romance
+552 Three Musketeers, The (1993) Action, Adventure, Comedy
+644 Happy Weekend (1996) Comedy
+
+
+
